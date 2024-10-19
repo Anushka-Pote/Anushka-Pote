@@ -15,6 +15,12 @@ I'm an AI & Data Science enthusiast with a passion for transforming data into ac
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
+### Badges Earned 🎖️
+![Badge1](link_to_your_badge_image1)
+![Badge2](link_to_your_badge_image2)
+![Badge3](link_to_your_badge_image3)
+![Badge4](link_to_your_badge_image4)
+
 ### Projects 🚀
 - **Data Analytics:** [Standout-Platform](https://github.com/Anushka-Pote/StandOut-Platform)
 - **Explainable Artificial Intelligence:** [SafeCity](https://github.com/Anushka-Pote/SafeCity-with-XAI)
@@ -28,7 +34,7 @@ I'm an AI & Data Science enthusiast with a passion for transforming data into ac
 
 ### Stats 📊
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-Pote&layout=compact&theme=radical)
-![This Month's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Anushka-Pote&theme=radical)
+![Total Contributions](https://github-readme-stats.vercel.app/api?username=Anushka-Pote&show_icons=true&theme=radical)
 
 ### Connect with Me 🌐
 - 📧 [Email](mailto:anushkapote1603@gmail.com)
