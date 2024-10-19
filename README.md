@@ -15,6 +15,7 @@ I'm an AI & Data Science enthusiast with a passion for transforming data into ac
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
+[![An image of @anushkapote's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anushkapote)](https://holopin.io/@anushkapote)
 ### Badges Earned 🎖️
 ![Badge1](https://www.holopin.io/userbadge/clnuoamuf41260fl6u0hwzbub)
 ![Badge2](link_to_your_badge_image2)
