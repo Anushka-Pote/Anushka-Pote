@@ -16,7 +16,7 @@ I'm an AI & Data Science enthusiast with a passion for transforming data into ac
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ### Badges Earned 🎖️
-![Badge1](link_to_your_badge_image1)
+![Badge1](https://www.holopin.io/userbadge/clnuoamuf41260fl6u0hwzbub)
 ![Badge2](link_to_your_badge_image2)
 ![Badge3](link_to_your_badge_image3)
 ![Badge4](link_to_your_badge_image4)
