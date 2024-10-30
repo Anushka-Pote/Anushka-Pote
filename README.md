@@ -30,7 +30,7 @@ I'm an AI & Data Science enthusiast with a passion for transforming data into ac
 </div>
 </details>
 
-https://gssoc.girlscript.tech/leaderboard?year=2024&username=Anushka-Pote
+https://gssoc.girlscript.tech/leaderboard?year=<2024>&username=<Anushka-Pote>
 ### Projects 🚀
 - **Data Analytics:** [Standout-Platform](https://github.com/Anushka-Pote/StandOut-Platform)
 - **Explainable Artificial Intelligence:** [SafeCity](https://github.com/Anushka-Pote/SafeCity-with-XAI)
