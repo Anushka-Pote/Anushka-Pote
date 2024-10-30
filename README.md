@@ -28,9 +28,10 @@ I'm an AI & Data Science enthusiast with a passion for transforming data into ac
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="120px" height="120px" gap: 20px />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="120px" height="120px" gap: 20px />
 </div>
+ https://gssoc.girlscript.tech/leaderboard?year=2024&username=Anushka-Pote
 </details>
 
-https://gssoc.girlscript.tech/leaderboard?year=<2024>&username=<Anushka-Pote>
+
 ### Projects 🚀
 - **Data Analytics:** [Standout-Platform](https://github.com/Anushka-Pote/StandOut-Platform)
 - **Explainable Artificial Intelligence:** [SafeCity](https://github.com/Anushka-Pote/SafeCity-with-XAI)
