@@ -6,9 +6,9 @@
 - Passionate about software development, particularly in Python. 💻  
 - Always eager to learn and grow. 🚀
  
-### Tech Stack🛠️ 
-  🗂️ Browse My Professional Archive!
-    Languages:
+### Browse My Professional Archive! 🗂️ 
+<br><br>
+   Languages:
     <br>
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" height="25" /> 
     <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" height="25" /> 
@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" height="25" /> 
     <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" height="25" /> 
     <br><br>
-    Frameworks:
+   Frameworks:
     <br>
     <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" height="25" /> 
     <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" height="25" /> 
@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="25" /> 
     <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" height="25" /> 
     <br><br>
-    Tools:
+   Tools:
     <br>
     <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=power-bi&logoColor=black" height="25" /> 
     <img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" height="25" /> 
