@@ -92,6 +92,6 @@
 </details>
 
 ### Connection Hub 🌐
-Discord: [poteanu](https://discord.com/users/poteanu) | LinkedIn: [Anushka Pote](https://www.linkedin.com/in/anushka-pote/) | YouTube: [Anushka Pote](https://www.youtube.com/@anushkapote6925) | Medium: [Anushka Pote](https://medium.com/@anushkapote1603) | Twitter: [@AnushkaPote](https://x.com/AnushkaPote)
+[Discord](https://discord.com/users/poteanu) | [LinkedIn](https://www.linkedin.com/in/anushka-pote/) | [Youtube](https://www.youtube.com/@anushkapote6925) |[Medium](https://medium.com/@anushkapote1603) | [Twitter](https://x.com/AnushkaPote)
 
 
