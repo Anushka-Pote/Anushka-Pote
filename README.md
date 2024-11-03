@@ -91,11 +91,7 @@
   <a href="https://github.com/Anushka-Pote/TCO-Cloud-Calcy">Repo</a> | <a href="https://youtu.be/7Cs2A7y_Mk4">Demo</a>
 </details>
 
-### Let’s Connect 🌍
+### Connection Hub 🌐
+Discord: [poteanu](https://discord.com/users/poteanu) | LinkedIn: [Anushka Pote](https://www.linkedin.com/in/anushka-pote/) | YouTube: [Anushka Pote](https://www.youtube.com/@anushkapote6925) | Medium: [Anushka Pote](https://medium.com/@anushkapote1603) | Twitter: [@AnushkaPote](https://x.com/AnushkaPote)
 
-- **Discord**: [poteanu](https://discord.com/users/poteanu) 
-- **LinkedIn**: [Anushka Pote](https://www.linkedin.com/in/anushka-pote/) 
-- **YouTube**: [Anushka Pote](https://www.youtube.com/@anushkapote6925) 
-- **Medium**: [Anushka Pote](https://medium.com/@anushkapote1603) 
-- **Twitter**: [@AnushkaPote](https://x.com/AnushkaPote) 
 
