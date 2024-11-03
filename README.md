@@ -43,23 +43,11 @@
 </details>
 
 ### GitHub Statistics 📊
-<details>
-  <summary><b>Click to expand your GitHub Stats</b></summary>
 
-  <a href="https://github.com/Anushka-Pote">
-    ![Total Contributions](https://github-readme-stats.vercel.app/api?username=Anushka-Pote&show_icons=true&theme=radical)
-  </a>
-  <a href="https://github.com/Anushka-Pote">
-    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-Pote&layout=compact&theme=radical)
-  </a>
-  <a href="https://github.com/Anushka-Pote">
-    ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Anushka-Pote&theme=radical)
-  </a>
-  <a href="https://github.com/Anushka-Pote">
-    ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Anushka-Pote&theme=radical&no-frame=true&no-bg=true&margin-w=15)
-  </a>
-
-</details>
+[![Total Contributions](https://github-readme-stats.vercel.app/api?username=Anushka-Pote&show_icons=true&theme=radical)](https://github.com/Anushka-Pote)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-Pote&layout=compact&theme=radical)](https://github.com/Anushka-Pote)
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Anushka-Pote&theme=radical)](https://github.com/Anushka-Pote)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Anushka-Pote&theme=radical&no-frame=true&no-bg=true&margin-w=15)](https://github.com/Anushka-Pote)
 
 
 ### Badges Earned 🎖️
