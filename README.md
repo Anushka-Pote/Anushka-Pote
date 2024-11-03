@@ -11,19 +11,19 @@
 <details>
   <summary><b>Click to expand Tech Stack</b></summary>
   <p>
-    **Languages:**
+    Languages:
     <br>
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" height="30" /> 
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" height="30" gap="20"/> 
     <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" height="30" /> 
     <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" height="30" /> 
     <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" height="30" /> 
     <br><br>
-    **Frameworks:**
+    Frameworks:
     <br>
     <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" height="30" /> 
     <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" height="30" /> 
     <br><br>
-    **Tools:**
+    Tools:
     <br>
     <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=power-bi&logoColor=black" height="30" /> 
     <img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" height="30" /> 
