@@ -45,12 +45,12 @@
 ### GitHub Statistics 📊
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anushka-Pote&show_icons=true&theme=radical" width="400" alt="Total Contributions" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-Pote&layout=compact&theme=radical" width="400" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anushka-Pote&theme=radical" width="400" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-Pote&layout=compact&theme=radical" width="400" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anushka-Pote&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" width="600" style="display: block; margin: auto;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Anushka-Pote&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" style="display: block;" />
 </p>
 
 ### Badges Earned 🎖️
