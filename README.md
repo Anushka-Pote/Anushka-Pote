@@ -1,10 +1,19 @@
 # Hi there, I'm Anushka Pote 👋
 
 ### About Me 🌟
-- Final year undergrad at DY Patil College. 📚
-- AI & Data Science enthusiast, transforming data into insights. 📊  
-- Passionate about software development, particularly in Python. 💻  
-- Always eager to learn and grow. 🚀  
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <ul>
+      <li>Final year undergrad at DY Patil College. 📚</li>
+      <li>AI & Data Science enthusiast, transforming data into insights. 📊</li>
+      <li>Passionate about software development, particularly in Python. 💻</li>
+      <li>Always eager to learn and grow. 🚀</li>
+    </ul>
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <img src="URL_of_your_uploaded_image" alt="Anushka's Image" width="150" />
+  </div>
+</div>  
  
 ### Tech Stack🛠️ 
 <details>
@@ -43,7 +52,6 @@
 </details>
 
 ### GitHub Statistics 📊
-<br><br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anushka-Pote&show_icons=true&theme=radical" width="400" height="300" alt="Total Contributions" style="margin: 0;" /> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anushka-Pote&theme=radical" width="400" height="300" alt="Streak Stats" style="margin: 0;" />
