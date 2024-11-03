@@ -8,17 +8,17 @@
  
 ### Tech Stack🛠️ 
 <details>
-  <summary><b>🗂️ Browse My Professional Archive!</b></summary>
+  🗂️ Browse My Professional Archive!
   <p>
     Languages:
     <br>
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" height="30" /> 
-    <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" height="30" /> 
-    <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" height="30" /> 
-    <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" height="30" /> 
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="30" />
-    <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" height="30" /> 
-    <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" height="30" /> 
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20" /> 
+    <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" height="20" /> 
+    <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" height="20" /> 
+    <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" height="20" /> 
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20" />
+    <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" height="20" /> 
+    <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" height="20" /> 
     <br><br>
     Frameworks:
     <br>
