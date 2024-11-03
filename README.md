@@ -47,13 +47,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Anushka-Pote&show_icons=true&theme=radical" width="400" height="300" alt="Total Contributions" /> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anushka-Pote&theme=radical" width="400" height="300" alt="Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-Pote&layout=compact&theme=radical" width="400" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Anushka-Pote&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" style="display: block;" />
 </p>
 
-### Badges Earned 🎖️
+### Contributions Badges Earned 🎖️
 [![An image of @anushkapote's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anushkapote)](https://holopin.io/@anushkapote)
 
 <details>	
@@ -96,10 +93,26 @@
 
 
 ### Connect with Me 🌐
-- 📧 [Email](mailto:anushkapote1603@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/anushka-pote/)
-- 🎥 [YouTube](https://www.youtube.com/@anushkapote6925)
-- 📝 [Medium](https://medium.com/@anushkapote1603)
-- 🐦 [Twitter](https://x.com/AnushkaPote)
+
+<p align="center">
+  <div style="display: inline-block; margin: 10px; padding: 10px; background-color: #f0f0f0; border-radius: 5px;">
+    📧 <a href="https://discord.com/users/poteanu" style="color: black; text-decoration: none;">Discord</a>
+  </div>
+  <div style="display: inline-block; margin: 10px; padding: 10px; background-color: #f0f0f0; border-radius: 5px;">
+    💼 <a href="https://www.linkedin.com/in/anushka-pote/" style="color: black; text-decoration: none;">LinkedIn</a>
+  </div>
+</p>
+
+<p align="center">
+  <div style="display: inline-block; margin: 10px; padding: 10px; background-color: #f0f0f0; border-radius: 5px;">
+    🎥 <a href="https://www.youtube.com/@anushkapote6925" style="color: black; text-decoration: none;">YouTube</a>
+  </div>
+  <div style="display: inline-block; margin: 10px; padding: 10px; background-color: #f0f0f0; border-radius: 5px;">
+    📝 <a href="https://medium.com/@anushkapote1603" style="color: black; text-decoration: none;">Medium</a>
+  </div>
+  <div style="display: inline-block; margin: 10px; padding: 10px; background-color: #f0f0f0; border-radius: 5px;">
+    🐦 <a href="https://x.com/AnushkaPote" style="color: black; text-decoration: none;">Twitter</a>
+  </div>
+</p>
 
 Feel free to check out my repositories and get in touch!
