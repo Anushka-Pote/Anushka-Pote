@@ -61,31 +61,22 @@
 
 <details>
   <summary><b>Standout Platform 🌟</b></summary>
-  This award-winning platform, which secured first place at the Code Without Barrier Microsoft Hackathon 24, revolutionizes personalized learning through tailored course recommendations. Standout Platform transforms user data into actionable insights, empowering learners to navigate their educational journeys effectively.<br>
- Repo: [GitHub](https://github.com/Anushka-Pote/StandOut-Platform)
- <br>
- Demo: [YouTube](https://youtu.be/r6Miayfoy2k)
+  This award-winning platform, which secured first place at the Code Without Barrier Microsoft Hackathon 24, revolutionizes personalized learning through tailored course recommendations. Standout Platform transforms user data into actionable insights, empowering learners to navigate their educational journeys effectively. [Repo](https://github.com/Anushka-Pote/StandOut-Platform) • [Demo](https://youtu.be/r6Miayfoy2k)
 </details>
 
 <details>
   <summary><b>Serenity Guide 🧘‍♀️</b></summary>
-  Serenify Guide is an innovative health and mind relaxation application that utilizes AI tools for effective stress and anger management. By providing personalized resources and techniques, it aims to enhance emotional well-being and promote mental clarity. This project has also been accepted for GirlScript Summer of Code 24 for contributions, reflecting its impact and relevance.  
-  - Repo: [GitHub](https://github.com/Anushka-Pote/Serenity-Guide)  
-  - Demo: [YouTube](https://youtu.be/j4-efJYhnzs)
+  Serenify Guide is an innovative health and mind relaxation application that utilizes AI tools for effective stress and anger management. By providing personalized resources and techniques, it aims to enhance emotional well-being and promote mental clarity. This project has also been accepted for GirlScript Summer of Code 24 for contributions, reflecting its impact and relevance. [Repo](https://github.com/Anushka-Pote/Serenity-Guide) • [Demo](https://youtu.be/j4-efJYhnzs)
 </details>
 
 <details>
-  <summary><b>SafeCity with XAI🏙️</b></summary>
-  SafeCity harnesses the power of Explainable AI to enhance urban safety through transparent decision-making. The project focuses on providing insights into safety measures and their effectiveness, fostering trust within communities. By bridging the gap between technology and public safety, SafeCity aims to create a safer urban environment.  
-  - Repo: [GitHub](https://github.com/Anushka-Pote/SafeCity-with-XAI)  
-  - Demo: [YouTube](https://youtu.be/Zo1i4-fzEps)
+  <summary><b>SafeCity 🏙️</b></summary>
+  SafeCity harnesses the power of Explainable AI to enhance urban safety through transparent decision-making. The project focuses on providing insights into safety measures and their effectiveness, fostering trust within communities. By bridging the gap between technology and public safety, SafeCity aims to create a safer urban environment. [Repo](https://github.com/Anushka-Pote/SafeCity-with-XAI) • [Demo](https://youtu.be/Zo1i4-fzEps)
 </details>
 
 <details>
   <summary><b>TCO-Calcy 💰</b></summary>
-  TCO-Calcy is a cloud-based tool designed to calculate the Total Cost of Ownership, offering businesses critical insights for strategic financial decisions. By leveraging machine learning algorithms, this application provides predictive analytics that helps organizations optimize their investments. The comprehensive reporting feature enhances clarity and aids in effective budgeting.  
-  - Repo: [GitHub](https://github.com/Anushka-Pote/TCO-Cloud-Calcy)  
-  - Demo: [YouTube](https://youtu.be/7Cs2A7y_Mk4)
+  TCO-Calcy is a cloud-based tool designed to calculate the Total Cost of Ownership, offering businesses critical insights for strategic financial decisions. By leveraging machine learning algorithms, this application provides predictive analytics that helps organizations optimize their investments. The comprehensive reporting feature enhances clarity and aids in effective budgeting. [Repo](https://github.com/Anushka-Pote/TCO-Cloud-Calcy) • [Demo](https://youtu.be/7Cs2A7y_Mk4)
 </details>
 
 ### Stats 📊
