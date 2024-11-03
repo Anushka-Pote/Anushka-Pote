@@ -13,7 +13,7 @@
   <p>
     Languages:
     <br>
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" height="30" gap="20"/> 
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" height="30" /> 
     <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" height="30" /> 
     <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" height="30" /> 
     <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" height="30" /> 
