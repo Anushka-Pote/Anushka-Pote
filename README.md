@@ -6,10 +6,9 @@
 - Passionate about software development, particularly in Python. 💻  
 - Always eager to learn and grow. 🚀  
  
-### Tech Stack 💻
-
+### Tech Stack🛠️ 
 <details>
-  <summary><b>Click to expand Tech Stack</b></summary>
+  <summary><b>🗂️ Browse My Professional Archive!</b></summary>
   <p>
     Languages:
     <br>
@@ -17,18 +16,29 @@
     <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" height="30" /> 
     <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" height="30" /> 
     <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" height="30" /> 
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="30" />
+    <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" height="30" /> 
+    <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" height="30" /> 
     <br><br>
     Frameworks:
     <br>
     <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" height="30" /> 
     <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" height="30" /> 
+    <img src="https://img.shields.io/badge/-FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" height="30" /> 
+    <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="30" /> 
+    <img src="https://img.shields.io/badge/-Matplotlib-003B57?style=flat-square&logo=matplotlib&logoColor=white" height="30" /> 
+    <img src="https://img.shields.io/badge/-Google%20Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white" height="30" /> 
+    <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="30" /> 
+    <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" height="30" /> 
     <br><br>
     Tools:
     <br>
     <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=power-bi&logoColor=black" height="30" /> 
     <img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" height="30" /> 
+    <img src="https://img.shields.io/badge/-Jupyter-DA5B0D?style=flat-square&logo=jupyter&logoColor=white" height="30" /> 
     <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="30" /> 
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" height="30" /> 
+    <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" height="30" /> 
   </p>
 </details>
 
@@ -37,7 +47,7 @@
 
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<div style='display:flex; align-items:center; gap: 30px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="120px" height="120px" gap: 30px />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="120px" height="120px" gap: 20px />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="120px" height="120px" gap: 20px />
@@ -46,7 +56,6 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="120px" height="120px" gap: 20px />
 </div>
 </details>
-
 
 ### Projects 🚀
 - **Data Analytics:** [Standout-Platform](https://github.com/Anushka-Pote/StandOut-Platform)
