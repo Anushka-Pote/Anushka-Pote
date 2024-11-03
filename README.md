@@ -42,6 +42,16 @@
   </p>
 </details>
 
+### GitHub Statistics 📊
+
+<details>
+  <summary><b>Click to expand your GitHub Stats</b></summary>
+  ![Total Contributions](https://github-readme-stats.vercel.app/api?username=Anushka-Pote&show_icons=true&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-Pote&layout=compact&theme=radical)
+  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Anushka-Pote&theme=radical)
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Anushka-Pote&theme=radical&no-frame=true&no-bg=true&margin-w=15)
+</details>
+
 ### Badges Earned 🎖️
 [![An image of @anushkapote's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anushkapote)](https://holopin.io/@anushkapote)
 
@@ -83,9 +93,6 @@
   <a href="https://github.com/Anushka-Pote/TCO-Cloud-Calcy">Repo</a> | <a href="https://youtu.be/7Cs2A7y_Mk4">Demo</a>
 </details>
 
-### Stats 📊
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-Pote&layout=compact&theme=radical)
-![Total Contributions](https://github-readme-stats.vercel.app/api?username=Anushka-Pote&show_icons=true&theme=radical)
 
 ### Connect with Me 🌐
 - 📧 [Email](mailto:anushkapote1603@gmail.com)
