@@ -48,8 +48,7 @@
 ### Contributions Badges Earned 🎖️
 [![An image of @anushkapote's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anushkapote)](https://holopin.io/@anushkapote)
 
-<details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
+<b>GSSOC(24) Badges 🪶</b><br>
 <div style='display:flex; align-items:center;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="120px" height="120px" gap: 30px />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="120px" height="120px" gap: 20px />
@@ -58,7 +57,6 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="120px" height="120px" gap: 20px />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="120px" height="120px" gap: 20px />
 </div>
-</details>
 
 ### Projects 🚀
 
