@@ -6,37 +6,31 @@
 - Passionate about software development, particularly in Python. 💻  
 - Always eager to learn and grow. 🚀  
  
-
 ### Tech Stack 💻
 
 <details>
-  <summary><b>Languages</b></summary>
+  <summary><b>Click to expand Tech Stack</b></summary>
   <p>
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" width="100" height="30" /> 
-    <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" width="100" height="30" /> 
-    <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" width="100" height="30" /> 
-    <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" width="100" height="30" /> 
+    **Languages:**
+    <br>
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" height="30" /> 
+    <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" height="30" /> 
+    <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" height="30" /> 
+    <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" height="30" /> 
+    <br><br>
+    **Frameworks:**
+    <br>
+    <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" height="30" /> 
+    <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" height="30" /> 
+    <br><br>
+    **Tools:**
+    <br>
+    <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=power-bi&logoColor=black" height="30" /> 
+    <img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" height="30" /> 
+    <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="30" /> 
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" height="30" /> 
   </p>
 </details>
-
-<details>
-  <summary><b>Frameworks</b></summary>
-  <p>
-    <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" width="100" height="30" /> 
-    <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" width="100" height="30" /> 
-  </p>
-</details>
-
-<details>
-  <summary><b>Tools</b></summary>
-  <p>
-    <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=power-bi&logoColor=black" width="100" height="30" /> 
-    <img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" width="100" height="30" /> 
-    <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" width="100" height="30" /> 
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" width="100" height="30" /> 
-  </p>
-</details>
-
 
 ### Badges Earned 🎖️
 [![An image of @anushkapote's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anushkapote)](https://holopin.io/@anushkapote)
