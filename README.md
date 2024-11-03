@@ -7,7 +7,6 @@
 - Always eager to learn and grow. 🚀
  
 ### Browse My Professional Archive! 🗂️ 
-<br><br>
    Languages:
     <br>
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" height="25" /> 
@@ -40,10 +39,10 @@
 
 ### GitHub Statistics 📊
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anushka-Pote&show_icons=true&theme=radical" width="400" height="300" alt="Total Contributions" style="margin: 0;" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anushka-Pote&theme=radical" width="400" height="300" alt="Streak Stats" style="margin: 0;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-Pote&layout=compact&theme=radical" width="400" height="auto" alt="Top Languages" style="margin: 0;" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Anushka-Pote&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" style="margin: 0;" />
+<img src="https://github-readme-stats.vercel.app/api?username=Anushka-Pote&show_icons=true&theme=radical" width="400" height="300" alt="Total Contributions" style="margin: 0;" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anushka-Pote&theme=radical" width="400" height="300" alt="Streak Stats" style="margin: 0;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-Pote&layout=compact&theme=radical" width="400" height="auto" alt="Top Languages" style="margin: 0;" />
+<img src="https://github-profile-trophy.vercel.app/?username=Anushka-Pote&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" style="margin: 0;" />
 </p>
 
 ### Contributions Badges Earned 🎖️
