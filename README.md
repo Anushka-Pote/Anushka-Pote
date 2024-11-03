@@ -59,26 +59,27 @@
 
 ### Projects 🚀
 
-- **Standout Platform**: [Repo](https://github.com/Anushka-Pote/StandOut-Platform)  
-  This award-winning platform, which secured first place at the Code Without Barrier Microsoft Hackathon 24, revolutionizes personalized learning through tailored course recommendations. Standout Platform transforms user data into actionable insights, empowering learners to navigate their educational journeys effectively.
-  [Demo](https://youtu.be/r6Miayfoy2k)
+<details>
+  <summary><b><a href="https://github.com/Anushka-Pote/StandOut-Platform">Standout Platform</a></b></summary>
+  This award-winning platform, which secured first place at the Code Without Barrier Microsoft Hackathon 24, revolutionizes personalized learning through tailored course recommendations. Standout Platform transforms user data into actionable insights, empowering learners to navigate their educational journeys effectively.[Demo](https://youtu.be/r6Miayfoy2k)
+</details>
 
-- **Serenity Guide**: [Repo](https://github.com/Anushka-Pote/Serenity-Guide)  
-  Serenify Guide is an innovative health and mind relaxation application that utilizes AI tools for effective stress and anger management. By providing personalized resources and techniques, it aims to enhance emotional well-being and promote mental clarity. This project has also been accepted for GirlScript Summer of Code 24 for contributions, reflecting its impact and relevance.
-  [Demo](https://youtu.be/j4-efJYhnzs)
+<details>
+  <summary><b><a href="https://github.com/Anushka-Pote/Serenity-Guide">Serenity Guide</a></b></summary>
+  Serenify Guide is an innovative health and mind relaxation application that utilizes AI tools for effective stress and anger management. By providing personalized resources and techniques, it aims to enhance emotional well-being and promote mental clarity. This project has also been accepted for GirlScript Summer of Code 24 for contributions, reflecting its impact and relevance.[Demo](https://youtu.be/j4-efJYhnzs)
+</details>
 
-- **SafeCity**: [Repo](https://github.com/Anushka-Pote/SafeCity-with-XAI)  
-  SafeCity harnesses the power of Explainable AI to enhance urban safety through transparent decision-making. The project focuses on providing insights into safety measures and their effectiveness, fostering trust within communities. By bridging the gap between technology and public safety, SafeCity aims to create a safer urban environment.  
-  [Demo](https://youtu.be/Zo1i4-fzEps)
+<details>
+  <summary><b><a href="https://github.com/Anushka-Pote/SafeCity-with-XAI">SafeCity</a></b></summary>
+  SafeCity harnesses the power of Explainable AI to enhance urban safety through transparent decision-making. The project focuses on providing insights into safety measures and their effectiveness, fostering trust within communities. By bridging the gap between technology and public safety, SafeCity aims to create a safer urban environment.[Demo](https://youtu.be/Zo1i4-fzEps)
+</details>
 
-- **TCO-Calcy**: [Repo](https://github.com/Anushka-Pote/TCO-Cloud-Calcy)  
-  TCO-Calcy is a cloud-based tool designed to calculate the Total Cost of Ownership, offering businesses critical insights for strategic financial decisions. By leveraging machine learning algorithms, this application provides predictive analytics that helps organizations optimize their investments. The comprehensive reporting feature enhances clarity and aids in effective budgeting.  
-  [Demo](https://youtu.be/7Cs2A7y_Mk4)
+<details>
+  <summary><b><a href="https://github.com/Anushka-Pote/TCO-Cloud-Calcy">TCO-Calcy</a></b></summary>
+  TCO-Calcy is a cloud-based tool designed to calculate the Total Cost of Ownership, offering businesses critical insights for strategic financial decisions. By leveraging machine learning algorithms, this application provides predictive analytics that helps organizations optimize their investments. The comprehensive reporting feature enhances clarity and aids in effective budgeting.[Demo](https://youtu.be/7Cs2A7y_Mk4)
+</details>
 
-### Achievements 🏆
-- **Hackathons:** Participated in numerous hackathons, winning a few 🥇, showcasing problem-solving skills and technical understanding.
-- **Communication:** Recognized for excellence in data-driven article writing and debates 🗣️.
-- **Open Source Contributions:** Active contributor in events like Hacktoberfest and Social Summer of Code; member of OSS CodeSS Cafe 🌐.
+
 
 ### Stats 📊
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-Pote&layout=compact&theme=radical)
