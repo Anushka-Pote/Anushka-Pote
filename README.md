@@ -61,8 +61,9 @@
 
 <details>
   <summary><b>Standout Platform 🌟</b></summary>
-  This award-winning platform, which secured first place at the Code Without Barrier Microsoft Hackathon 24, revolutionizes personalized learning through tailored course recommendations. Standout Platform transforms user data into actionable insights, empowering learners to navigate their educational journeys effectively.
- Repo: [GitHub](https://github.com/Anushka-Pote/StandOut-Platform)  
+  This award-winning platform, which secured first place at the Code Without Barrier Microsoft Hackathon 24, revolutionizes personalized learning through tailored course recommendations. Standout Platform transforms user data into actionable insights, empowering learners to navigate their educational journeys effectively.<br>
+ Repo: [GitHub](https://github.com/Anushka-Pote/StandOut-Platform)
+ <br>
  Demo: [YouTube](https://youtu.be/r6Miayfoy2k)
 </details>
 
