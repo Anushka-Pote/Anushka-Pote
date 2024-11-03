@@ -4,7 +4,8 @@
 - Final year undergrad at DY Patil College. 📚
 - AI & Data Science enthusiast, transforming data into insights. 📊  
 - Passionate about software development, particularly in Python. 💻  
-- Always eager to learn and grow. 🚀  
+- Always eager to learn and grow. 🚀
+![Alt text](https://media.licdn.com/dms/image/v2/D5612AQFuWiuEBRAcNw/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1694701932900?e=1736380800&v=beta&t=etynbJVvNXumGoQMUduTFDRc3cEsmA8J1_mnAPwTPgc)
  
 ### Tech Stack🛠️ 
 <details>
