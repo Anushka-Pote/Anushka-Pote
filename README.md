@@ -44,7 +44,7 @@
 
 ### GitHub Statistics 📊
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anushka-Pote&show_icons=true&theme=radical" width="400" height="300" alt="Total Contributions" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anushka-Pote&show_icons=true&theme=radical" width="400" height="300" alt="Total Contributions" /> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anushka-Pote&theme=radical" width="400" height="300" alt="Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-Pote&layout=compact&theme=radical" width="400" alt="Top Languages" />
 </p>
@@ -58,7 +58,7 @@
 
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
-<div style='display:flex; align-items:center; gap: 30px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<div style='display:flex; align-items:center;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="120px" height="120px" gap: 30px />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="120px" height="120px" gap: 20px />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="120px" height="120px" gap: 20px />
