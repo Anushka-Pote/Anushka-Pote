@@ -44,8 +44,8 @@
 
 ### GitHub Statistics 📊
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anushka-Pote&show_icons=true&theme=radical" width="400" height="300" alt="Total Contributions" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anushka-Pote&theme=radical" width="400" height="320" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anushka-Pote&show_icons=true&theme=radical" width="400" height="300" alt="Total Contributions" /> <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anushka-Pote&theme=radical" width="400" height="300" alt="Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-Pote&layout=compact&theme=radical" width="400" alt="Top Languages" />
 </p>
 
