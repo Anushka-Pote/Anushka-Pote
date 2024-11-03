@@ -1,19 +1,10 @@
 # Hi there, I'm Anushka Pote 👋
 
 ### About Me 🌟
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <ul>
-      <li>Final year undergrad at DY Patil College. 📚</li>
-      <li>AI & Data Science enthusiast, transforming data into insights. 📊</li>
-      <li>Passionate about software development, particularly in Python. 💻</li>
-      <li>Always eager to learn and grow. 🚀</li>
-    </ul>
-  </div>
-  <div style="flex: 1; text-align: right;">
-    <img src="URL_of_your_uploaded_image" alt="Anushka's Image" width="150" />
-  </div>
-</div>  
+- Final year undergrad at DY Patil College. 📚
+- AI & Data Science enthusiast, transforming data into insights. 📊  
+- Passionate about software development, particularly in Python. 💻  
+- Always eager to learn and grow. 🚀  
  
 ### Tech Stack🛠️ 
 <details>
