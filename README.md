@@ -61,22 +61,26 @@
 
 <details>
   <summary><b>Standout Platform 🌟</b></summary>
-  This award-winning platform, which secured first place at the Code Without Barrier Microsoft Hackathon 24, revolutionizes personalized learning through tailored course recommendations. Standout Platform transforms user data into actionable insights, empowering learners to navigate their educational journeys effectively. [Repo](https://github.com/Anushka-Pote/StandOut-Platform) • [Demo](https://youtu.be/r6Miayfoy2k)
+  This award-winning platform, which secured first place at the Code Without Barrier Microsoft Hackathon 24, revolutionizes personalized learning through tailored course recommendations. Standout Platform transforms user data into actionable insights, empowering learners to navigate their educational journeys effectively.  
+  <a href="https://github.com/Anushka-Pote/StandOut-Platform">Repo</a> | <a href="https://youtu.be/r6Miayfoy2k">Demo</a>
 </details>
 
 <details>
   <summary><b>Serenity Guide 🧘‍♀️</b></summary>
-  Serenify Guide is an innovative health and mind relaxation application that utilizes AI tools for effective stress and anger management. By providing personalized resources and techniques, it aims to enhance emotional well-being and promote mental clarity. This project has also been accepted for GirlScript Summer of Code 24 for contributions, reflecting its impact and relevance. [Repo](https://github.com/Anushka-Pote/Serenity-Guide) • [Demo](https://youtu.be/j4-efJYhnzs)
+  Serenify Guide is an innovative health and mind relaxation application that utilizes AI tools for effective stress and anger management. By providing personalized resources and techniques, it aims to enhance emotional well-being and promote mental clarity. This project has also been accepted for GirlScript Summer of Code 24 for contributions, reflecting its impact and relevance.  
+  <a href="https://github.com/Anushka-Pote/Serenity-Guide">Repo</a> | <a href="https://youtu.be/j4-efJYhnzs">Demo</a>
 </details>
 
 <details>
   <summary><b>SafeCity 🏙️</b></summary>
-  SafeCity harnesses the power of Explainable AI to enhance urban safety through transparent decision-making. The project focuses on providing insights into safety measures and their effectiveness, fostering trust within communities. By bridging the gap between technology and public safety, SafeCity aims to create a safer urban environment. [Repo](https://github.com/Anushka-Pote/SafeCity-with-XAI) • [Demo](https://youtu.be/Zo1i4-fzEps)
+  SafeCity harnesses the power of Explainable AI to enhance urban safety through transparent decision-making. The project focuses on providing insights into safety measures and their effectiveness, fostering trust within communities. By bridging the gap between technology and public safety, SafeCity aims to create a safer urban environment.  
+  <a href="https://github.com/Anushka-Pote/SafeCity-with-XAI">Repo</a> | <a href="https://youtu.be/Zo1i4-fzEps">Demo</a>
 </details>
 
 <details>
   <summary><b>TCO-Calcy 💰</b></summary>
-  TCO-Calcy is a cloud-based tool designed to calculate the Total Cost of Ownership, offering businesses critical insights for strategic financial decisions. By leveraging machine learning algorithms, this application provides predictive analytics that helps organizations optimize their investments. The comprehensive reporting feature enhances clarity and aids in effective budgeting. [Repo](https://github.com/Anushka-Pote/TCO-Cloud-Calcy) • [Demo](https://youtu.be/7Cs2A7y_Mk4)
+  TCO-Calcy is a cloud-based tool designed to calculate the Total Cost of Ownership, offering businesses critical insights for strategic financial decisions. By leveraging machine learning algorithms, this application provides predictive analytics that helps organizations optimize their investments. The comprehensive reporting feature enhances clarity and aids in effective budgeting.  
+  <a href="https://github.com/Anushka-Pote/TCO-Cloud-Calcy">Repo</a> | <a href="https://youtu.be/7Cs2A7y_Mk4">Demo</a>
 </details>
 
 ### Stats 📊
