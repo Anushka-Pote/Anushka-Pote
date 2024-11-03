@@ -91,28 +91,11 @@
   <a href="https://github.com/Anushka-Pote/TCO-Cloud-Calcy">Repo</a> | <a href="https://youtu.be/7Cs2A7y_Mk4">Demo</a>
 </details>
 
+### Let’s Connect 🌍
 
-### Connect with Me 🌐
+- **Discord**: [poteanu](https://discord.com/users/poteanu) 
+- **LinkedIn**: [Anushka Pote](https://www.linkedin.com/in/anushka-pote/) 
+- **YouTube**: [Anushka Pote](https://www.youtube.com/@anushkapote6925) 
+- **Medium**: [Anushka Pote](https://medium.com/@anushkapote1603) 
+- **Twitter**: [@AnushkaPote](https://x.com/AnushkaPote) 
 
-<p align="center">
-  <div style="display: inline-block; margin: 10px; padding: 10px; background-color: #f0f0f0; border-radius: 5px;">
-    📧 <a href="https://discord.com/users/poteanu" style="color: black; text-decoration: none;">Discord</a>
-  </div>
-  <div style="display: inline-block; margin: 10px; padding: 10px; background-color: #f0f0f0; border-radius: 5px;">
-    💼 <a href="https://www.linkedin.com/in/anushka-pote/" style="color: black; text-decoration: none;">LinkedIn</a>
-  </div>
-</p>
-
-<p align="center">
-  <div style="display: inline-block; margin: 10px; padding: 10px; background-color: #f0f0f0; border-radius: 5px;">
-    🎥 <a href="https://www.youtube.com/@anushkapote6925" style="color: black; text-decoration: none;">YouTube</a>
-  </div>
-  <div style="display: inline-block; margin: 10px; padding: 10px; background-color: #f0f0f0; border-radius: 5px;">
-    📝 <a href="https://medium.com/@anushkapote1603" style="color: black; text-decoration: none;">Medium</a>
-  </div>
-  <div style="display: inline-block; margin: 10px; padding: 10px; background-color: #f0f0f0; border-radius: 5px;">
-    🐦 <a href="https://x.com/AnushkaPote" style="color: black; text-decoration: none;">Twitter</a>
-  </div>
-</p>
-
-Feel free to check out my repositories and get in touch!
